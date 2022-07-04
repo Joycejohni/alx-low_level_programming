@@ -7,7 +7,7 @@
 /**
  * main - Entry point
  *
- * Retutn: (0) successfull
+ * Return: (0) successfull
  */
 int main(void)
 {
