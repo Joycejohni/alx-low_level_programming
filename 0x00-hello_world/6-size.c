@@ -1,16 +1,13 @@
 #include<stdio.h>
-int main(void) 
-{
+/**
+ * trying to understand betty
+ * this is betty
+ * */
+int main(void) {
 	int intType;
 	float floatType;
 	long longType;
-	char charType;
+	char chartype;
 	long long longlongType;
-
-printf("Size of int: %zu bytes\n", sizeof(intType));
-printf("Size of float: %zu bytes\n", sizeof(floatType));
-printf("Size of long: %zu bytes\n", sizeof(longType));
-printf("Size of char: %zu byte\n", sizeof(charType));
-printf("size of long long: %zu bytes\n", sizeof(longlongType));
-return (0);
-}
+	printf("size of int: %zu bytes\n", sizeof(intType));
+	printf("si
