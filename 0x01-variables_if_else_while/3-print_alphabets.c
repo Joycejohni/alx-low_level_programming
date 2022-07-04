@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main - prints the alphabet in lowercase, and
+ ** main - prints the alphabet in lowercase, and
  * then in uppercase, followed by a new line.
  * Return: 0 if successful
  * otherwise return a non-zero
@@ -25,4 +25,4 @@ int main(void)
 	}
 	putchar('\n');
 	return (0);
-
+}
