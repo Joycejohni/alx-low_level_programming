@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
- * check if c is lowercase or uppercase
+ * _isalpha - if c is lowercase or uppercase
  * @c : character to be checked
- * Return 1 if c is lover case or uppercase otherwise 0
+ * Return: 1 if c is lover case or uppercase otherwise 0
  */
 
 int _isalpha(int c)
